@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern="filebeat" type="PLAIN_TEXT" />
+      <mapping ext="xquery" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
